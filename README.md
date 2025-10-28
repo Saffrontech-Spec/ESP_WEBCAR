@@ -136,37 +136,50 @@ The ESP32 hosts a joystick web interface through its built-in **Access Point** m
 ## ⚡ Circuit Diagram
 Here’s the wiring setup for the ESP32-powered car:
 
-![Circuit Diagram](hardwarewiring-diagram.svg/circuit_diagram.png)
+
+![Circuit Diagram](circuit_diagram.png)
+
 
 ---
 
 ## 🌐 Web Interface
 Below is the control webpage UI for the car:
 
-![Webpage UI](hardwarewiring-diagram.svg/Controller_Webpage_Interface.png)
+
+![Webpage UI](Controller_Webpage_Interface.png)
+
 
 ---
 
-7) What you learn from this project
+## 🧠 7) What You Learn from This Project
 
-• How to run ESP32 in Access Point mode and serve web UI
-• WebSocket communication between browser and embedded device
-• Mapping joystick axes to differential motor drive (mixing turn+throttle)
-• Controlling DC motors with L298N and PWM from microcontroller
-• Basic hardware wiring: common ground, motor supply vs logic supply
-• Debugging embedded web interfaces and tuning control sensitivity
-• Packaging an embedded project for open-source sharing
+Through the **ESP_WEBCAR** project, you gain both **practical IoT experience** and **embedded system knowledge**.
 
-8)More to Add
+### 📘 Key Learnings
 
-• Add software PWM fallback if target board lacks 
-analogWrite /ledc support
-• Add low battery safe-stop and voltage monitor
-• Add OTA updates so you can update firmware over Wi‑Fi
-• Add Bluetooth control fallback
-• Add speed calibration UI and fine-tune joystick smoothing
-• Add camera module for live Stream
-• Can add Lane detection
+- 🛰 **Access Point Mode:** How to run the **ESP32** in AP mode and host a web-based control UI.  
+- 🔄 **WebSocket Communication:** Establishing real-time bidirectional data transfer between the **browser** and the **embedded device**.  
+- 🎮 **Joystick Control Mapping:** Converting joystick X–Y axes into **differential motor control** (mixing throttle and turn).  
+- ⚙️ **Motor Control with L298N:** Using **PWM signals** from ESP32 to control motor speed and direction.  
+- 🧩 **Hardware Fundamentals:** Understanding **common ground** concepts and the difference between **motor supply** and **logic supply**.  
+- 🧪 **Debugging & Tuning:** Testing embedded web interfaces and adjusting control sensitivity for smoother driving.  
+- 💾 **Open-Source Packaging:** Structuring and documenting an IoT project for sharing on platforms like **GitHub**.
+
+---
+
+## 🚀 8) Future Improvements (More to Add)
+
+Here are some enhancements you can explore to make the project even more powerful and feature-rich:
+
+- ⚡ **Software PWM Fallback:** Add support for boards that lack `analogWrite` or LEDC channels.  
+- 🔋 **Battery Safety Features:** Implement low-battery detection and automatic safe-stop function.  
+- 📡 **OTA (Over-The-Air) Updates:** Enable firmware updates wirelessly via Wi-Fi.  
+- 📶 **Bluetooth Control Fallback:** Add Bluetooth-based manual control option when Wi-Fi isn’t available.  
+- ⚙️ **Speed Calibration:** Build a UI for speed calibration and joystick fine-tuning (dead zone, smoothing, etc.).  
+- 🎥 **Camera Module Integration:** Add ESP32-CAM or external camera for **live video streaming**.  
+- 🛣️ **Lane Detection (AI Add-on):** Integrate basic computer vision for autonomous line-following capability.
+
+---
 
 ## 🌐 Internet of Things (IoT) Overview
 
