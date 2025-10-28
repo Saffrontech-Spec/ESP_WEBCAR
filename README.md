@@ -245,6 +245,29 @@ It serves as a strong foundation for future advancements like:
 Each improvement will bring it one step closer to becoming a complete IoT-based smart vehicle.
 
 ---
+# 🚗 ESP32 Dual Joystick Car Demo
+
+## 📷 Demo Images
+
+| Image | Description |
+|--------|--------------|
+| ![Demo 1](Demo_pic%20(1).jpg) |  |
+| ![Demo 2](Demo_pic%20(2).jpg) |  |
+| ![Demo 3](Demo_pic%20(3).jpg) |  |
+| ![Demo 4](Demo_pic%20(4).jpg) |  |
+| ![Demo 5](Demo_pic%20(5).jpg) |  |
+| ![Demo 6](Demo_pic%20(6).jpg) |  |
+| ![Demo 7](Demo_pic%20(7).jpg) |  |
+| ![Dual Joystick Webpage](Dual%20Joystick%20webpage.png) |  |
+| ![L298N Schematic](L298N%20Schematic.png) |  |
+
+---
+
+## 🎥 Demo Video
+
+🎬 [Watch on YouTube](https://youtu.be/po_lKemdFkE)
+
+---
 
 ### 💡 Crafted with Innovation by  
 # **Saffron Innovators Hub** ⚙️  
