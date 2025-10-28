@@ -251,15 +251,14 @@ Each improvement will bring it one step closer to becoming a complete IoT-based 
 
 | Image | Description |
 |--------|--------------|
-| ![Demo 1](Demo_pic%20(1).jpg) |  |
-| ![Demo 2](Demo_pic%20(2).jpg) |  |
-| ![Demo 3](Demo_pic%20(3).jpg) |  |
-| ![Demo 4](Demo_pic%20(4).jpg) |  |
-| ![Demo 5](Demo_pic%20(5).jpg) |  |
-| ![Demo 6](Demo_pic%20(6).jpg) |  |
-| ![Demo 7](Demo_pic%20(7).jpg) |  |
-| ![Dual Joystick Webpage](Dual%20Joystick%20webpage.png) |  |
-| ![L298N Schematic](L298N%20Schematic.png) |  |
+| ![Demo 1](Demo_pic%20(1).jpg) |view of  final prototype  |
+| ![Demo 2](Demo_pic%20(2).jpg) | -‖- |
+| ![Demo 3](Demo_pic%20(3).jpg) | -‖- |
+| ![Demo 5](Demo_pic%20(5).jpg) | -‖- |
+| ![Demo 6](Demo_pic%20(6).jpg) | -‖- |
+| ![Demo 7](Demo_pic%20(7).jpg) | -‖- |
+| ![Dual Joystick Webpage](Dual%20Joystick%20webpage.png) | Tried to run with Two Joystick 🕹 Controls  |
+| ![L298N Schematic](L298N%20Schematic.png) | L298N Motor driver Schematic for better Understanding |
 
 ---
 
