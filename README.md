@@ -245,7 +245,7 @@ It serves as a strong foundation for future advancements like:
 Each improvement will bring it one step closer to becoming a complete IoT-based smart vehicle.
 
 ---
-# 🚗 ESP32 Dual Joystick Car Demo
+# 🚗 ESP32 Joystick Car Demo
 
 ## 📷 Demo Images
 
