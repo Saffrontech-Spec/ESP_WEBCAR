@@ -251,7 +251,7 @@ Each improvement will bring it one step closer to becoming a complete IoT-based 
 
 | Image | Description |
 |--------|--------------|
-| ![Demo 1](Demo_pic%20(1).jpg) |view of  final prototype  |
+| ![Demo 1](Demo_pic%20(1).jpg) |View of  Final Prototype  |
 | ![Demo 2](Demo_pic%20(2).jpg) | -‖- |
 | ![Demo 3](Demo_pic%20(3).jpg) | -‖- |
 | ![Demo 4](Demo_pic%20(4).jpg) | -‖- |
